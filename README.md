@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeivaDArve
 - 👀 I’m interested in ... accept colaboration invites (that is how I plan to learn, learn by request: "do this...", "do that..."; "try to do this or that...")
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ... anything
+- 🌱 I’m currently learning Bash > html > CSS > Javascript > Python 
+- 💞️ I’m looking to collaborate on ... anything actually, that would mean I would have a team, and a team learns faster
 - 📫 How to reach me ... flowreshe.seiva.d.arve@gmail.com or Instagram@dvsrodrigues
 
 <!---
