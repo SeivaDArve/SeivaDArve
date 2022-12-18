@@ -14,6 +14,9 @@ In love with:
 - Kotlin
 - Crossplatform and FOSS software
 - Linux
+- Sqlite3
+- Emacs <3
+- tmux
 - the fact: Iron Man (Marvel) was a programer;)
 - Raspberry Pi for home/life automation
 - Meepo (Dota 2)
