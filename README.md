@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anything actually, that would mean I would have a team, and a team learns faster
 - 📫 How to reach me ... flowreshe.seiva.d.arve@gmail.com or Instagram@dvsrodrigues
 
+
 In love with:
 - Vim flow
 - Bash
