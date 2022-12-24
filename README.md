@@ -20,6 +20,8 @@ In love with:
 - tmux
 - the fact: Iron Man (Marvel) was a programer;)
 - Raspberry Pi for home/life automation
+- Arduino
+- Bootable USB sticks with fully functional OS (and in sync)
 - Meepo (Dota 2)
 
 Looking for: Creating a CHEAP smartwatch simply to input values via bluetooth to Termux (terminal emulator on Android).
