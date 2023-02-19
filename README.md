@@ -22,7 +22,7 @@ In love with:
 - Raspberry Pi for home/life automation
 - Arduino
 - Bootable USB sticks with fully functional OS (and in sync)
-- Meepo (Dota 2)
+- Meepo (Dota 2 game)
 
 Looking for: Creating a CHEAP smartwatch simply to input values via bluetooth to Termux (terminal emulator on Android).
   Having a programable smartwatch or using a smartwatch as a peripheral would make my programming skills and vision to become super powerfull
