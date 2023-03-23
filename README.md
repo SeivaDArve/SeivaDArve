@@ -17,6 +17,7 @@ In love with:
 - Linux
 - Sqlite3
 - Emacs <3
+- org-mode <3<3
 - tmux
 - the fact: Iron Man (Marvel) was a programer;)
 - Raspberry Pi for home/life automation
