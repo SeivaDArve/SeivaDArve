@@ -6,6 +6,7 @@
 
 
 In love with:
+- LINUX <3
 - Vim flow
 - Bash
 - Python
@@ -13,17 +14,22 @@ In love with:
 - Termux
 - WSL2
 - Kotlin
-- Crossplatform and FOSS software
-- Linux
+- Crossplatform kind of software
+- FOSS (free and OPEN SOURCE software)
+  - enables your partitipations on the biggest corpoation projects FOR FREE
+  - enables small/medium/big corporations and/or users to cooperate in your projects FOR FREE
 - Sqlite3
 - Emacs <3
-- org-mode <3<3
+- org-mode <3 <3
 - tmux
-- the fact: Iron Man (Marvel) was a programer;)
-- Raspberry Pi for home/life automation
-- Arduino
+- the fact: Iron Man (Marvel) was a programer and I discovered he started a project JUST LIKE MINE;)
+- Domotics (HOME and life automation in general)
+  - Raspberry Pi
+  - Arduino
+  - Web Scraping + Web Crawiling
+  - Cloud computing and cloud management (backend)
 - Bootable USB sticks with fully functional OS (and in sync)
-- Meepo (Dota 2 game)
+- Meepo (Dota 2, most mind blowing game for intelectuall people)
 
 Looking for: Creating a CHEAP smartwatch simply to input values via bluetooth to Termux (terminal emulator on Android).
   Having a programable smartwatch or using a smartwatch as a peripheral would make my programming skills and vision to become super powerfull
