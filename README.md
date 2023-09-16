@@ -33,7 +33,10 @@ In love with:
 
 Looking for: Creating a CHEAP smartwatch simply to input values via bluetooth to Termux (terminal emulator on Android).
   Having a programable smartwatch or using a smartwatch as a peripheral would make my programming skills and vision to become super powerfull
-  there is room for on more dev to join the team, are you up to the challenge? (flowreshe.seiva.d.arve@☻gmail.com)
+  there is room for on more dev to join the team, are you up to the challenge? (flowreshe.seiva.d.arve@gmail.com)
+
+
+  Clone my principal project (DRYa): https://github.com/SeivaDArve/DRYa.git
   
 <!---
 SeivaDArve/SeivaDArve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
