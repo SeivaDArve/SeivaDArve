@@ -31,6 +31,8 @@ In love with:
 - Bootable USB sticks with fully functional OS (and in sync)
 - Meepo (Dota 2, most mind blowing game for intelectuall people)
 
+Mood right now: https://youtu.be/2zpCOYkdvTQ?si=U_hF9gxW1ow9Lffp
+
 Looking for: Creating a CHEAP smartwatch simply to input values via bluetooth to Termux (terminal emulator on Android).
   Having a programable smartwatch or using a smartwatch as a peripheral would make my programming skills and vision to become super powerfull
   there is room for on more dev to join the team, are you up to the challenge? (flowreshe.seiva.d.arve@gmail.com)
